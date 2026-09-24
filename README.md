@@ -18,7 +18,7 @@ My north star: **humanity helping each other be awesome.**
 
 ### Code with a human purpose
 
-I'm a senior software engineer at **Meta**, on the Reality Labs **Virtual Reality Component Library** Foundations team. I love turning worthwhile ideas into useful, delightful experiences. Earlier, I worked on **YouTube Live at Google** and **Otter.ai's web experience**.
+I'm building apps to enrich the world. I love teaching programming and consulting on software projects. I was a senior software engineer at **Meta**, on the Reality Labs **Virtual Reality Component Library** Foundations team, and earlier I worked on **YouTube Live at Google** and **Otter.ai's web experience**.
 
 I enjoy working with **React, TypeScript, Firebase, Unity, and VR**. My interests include educational apps, interactive mathematics and science, immersive learning, and humane productivity tools that help people act on what matters.
 
