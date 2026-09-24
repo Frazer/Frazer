@@ -67,17 +67,3 @@ I'd love to connect around **useful software, inspiring education, meditation wo
 
 [Facebook →](https://www.facebook.com/frazerkirkman) · [X →](https://x.com/FrazerKirkman) · [Instagram →](https://www.instagram.com/frazerkirkman/) · [Connect on LinkedIn →](https://www.linkedin.com/in/frazerkirkman)
 
----
-
-<details>
-<summary>About this repository</summary>
-
-This is my GitHub profile repository. `README.md` appears on my GitHub profile; `index.html` is a responsive, standalone personal homepage with a small optional reflection interaction.
-
-Open `index.html` directly in a browser, or serve this directory with `python3 -m http.server 8000`. There are no build tools, dependencies, tracking scripts, or external fonts. The artwork is local SVG; reduced-motion preferences are respected.
-
-The HTML can be hosted on any static host. Adding it to this repository does not itself enable GitHub Pages.
-
-Public links were researched in September 2026. Source notes are in [SOURCES.md](SOURCES.md).
-
-</details>
