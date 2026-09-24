@@ -4,6 +4,9 @@
   <a href="https://frazerk.net/">Coaching & workshops</a> ·
   <a href="https://www.youtube.com/c/FrazerKirkman">YouTube</a> ·
   <a href="https://unitedvisions.org/">United Visions</a> ·
+  <a href="https://www.facebook.com/frazerkirkman">Facebook</a> ·
+  <a href="https://x.com/FrazerKirkman">X</a> ·
+  <a href="https://www.instagram.com/frazerkirkman/">Instagram</a> ·
   <a href="https://www.linkedin.com/in/frazerkirkman">LinkedIn</a>
 </p>
 
@@ -15,7 +18,7 @@ My north star: **humanity helping each other be awesome.**
 
 ### Code with a human purpose
 
-I'm a senior software engineer who loves turning worthwhile ideas into useful, delightful experiences. My engineering background includes **YouTube Live at Google** and **Otter.ai's web experience**.
+I'm a senior software engineer at **Meta**, on the Reality Labs **Virtual Reality Component Library** Foundations team. I love turning worthwhile ideas into useful, delightful experiences. Earlier, I worked on **YouTube Live at Google** and **Otter.ai's web experience**.
 
 I enjoy working with **React, TypeScript, Firebase, Unity, and VR**. My interests include educational apps, interactive mathematics and science, immersive learning, and humane productivity tools that help people act on what matters.
 
@@ -62,7 +65,7 @@ Compassion includes other animals and the living world. **Veganism, nonviolence,
 
 I'd love to connect around **useful software, inspiring education, meditation workshops, and compassionate communities**.
 
-[Say hello →](mailto:frazer@frazerk.net) · [Connect on LinkedIn →](https://www.linkedin.com/in/frazerkirkman)
+[Facebook →](https://www.facebook.com/frazerkirkman) · [X →](https://x.com/FrazerKirkman) · [Instagram →](https://www.instagram.com/frazerkirkman/) · [Connect on LinkedIn →](https://www.linkedin.com/in/frazerkirkman)
 
 ---
 
